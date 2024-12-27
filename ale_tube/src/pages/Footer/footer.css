@@ -1,0 +1,80 @@
+
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.get_all{
+    
+    padding-top: 60px;
+    padding-bottom: 10px;
+    background: linear-gradient(130deg, rgb(33, 11, 237),rgb(59, 88, 180),rgb(130, 146, 239));
+    border-top-left-radius: 150px;
+}
+
+.sub_title{
+    position: absolute;
+    width: 5%;
+    cursor: pointer;
+    color: rgb(249, 248, 248);
+}
+
+.sub_title h1:hover{
+    color: rgb(252, 200, 12);
+}
+
+.f_head{
+    transform: translate(6 , 9%);
+    box-shadow:0 10px 10px #201e1ed5 ;
+    color: rgb(244, 244, 8);
+}
+
+.sub_title .first{
+    margin-top: 20px;
+    float: right;
+    width: 10%;
+
+}
+
+
+.you_tiktok{
+    margin-top:40px ;
+    padding-top: 50px;
+    padding-left: 130px;
+    display: flex;
+}
+
+.insta_face{
+    padding-top: 10px;
+    padding-left: 130px;
+    display: flex;
+}
+
+#you{
+     margin-right: 90px;
+     margin-bottom: 70px;
+     
+}
+#insta{
+    margin-right: 70px;
+}
+
+
+.css{
+    margin-top: 350px;
+    transform: translate(6 , 9%);
+    box-shadow:0 10px 10px #201e1ed5 ;
+}
+
+.creater_promo{
+    color: white;
+    text-align: end;
+    padding-top: 20px;
+    transform: translate(6 , 9%);
+    box-shadow:0 10px 10px #201e1ed5 ;
+}
+
+
+
+

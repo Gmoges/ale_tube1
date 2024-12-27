@@ -1,0 +1,47 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+
+.M_all{
+    margin-top: 40px;
+    padding-bottom: 80px;
+    background-color: rgba(9, 8, 8, 0.818);
+    color: white;
+}
+.M_head_text{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    
+}
+.fun1{
+    font-size: 30px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.Mvpn{
+    padding-top: 60px;
+    
+}
+
+.Mvpn img{
+    width: 50%;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.youtube_video iframe{
+    margin-top: 60px;
+    margin-bottom: 40px;
+    padding: 10px;
+}
+
+.youtube_video iframe:hover{
+
+    border-radius: 15px;
+    transform: translate(0,6%);
+    box-shadow:0 100px 30px #998f8fd0 ;
+
+}
